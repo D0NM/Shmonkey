@@ -1,0 +1,5 @@
+Don Miguel mikhail.bratus@gmail.com
+LOVE JAM https://itch.io/jam/love2d-jam
+
+My current big gamedev project:
+https://www.zabuyaki.com <- open source retro beat'em up game ZABUYAKI (made with LOVE)
